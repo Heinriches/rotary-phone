@@ -3,7 +3,6 @@
 
 ![Course-cover](https://hugocursos.com.br/sistema/styles/img/cursos/05-08-2024-05-57-54-705.webp "Course-cover")
 
-link: https://hugocursos.com.br/cursos-do-desenvolvedor-junior
+pacote: https://hugocursos.com.br/cursos-do-desenvolvedor-junior
 
-link: https://hugocursos.com.br/curso-de-html-e-html5#
-
+curso: https://hugocursos.com.br/curso-de-html-e-html5#
